@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="err_openTypeface">No se pudo abrir la fuente</string>
+    <string name="err_categoryEmpty">Debe seleccionar al menos un tipo de oferta</string>
+    <string name="err_addError">No se ha podido completar la operación</string>
+</resources>

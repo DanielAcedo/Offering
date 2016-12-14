@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">Offering</string>
+
+    <!-- Configuration Activity -->
+    <string name="txv_configurationTitle">Configuración Offering</string>
+    <string name="txv_showHomeOffering">Mostrar ofertas de hogar:</string>
+    <string name="txv_showElectronicOffering">Mostrar ofertas de electrónica:</string>
+    <string name="txv_showSportOffering">Mostrar ofertas de deportes:</string>
+    <string name="txv_showOfferingWeight">Mostrar la importancia de las ofertas:</string>
+    <string name="btn_configurationAccept">Aceptar</string>
+
+    <!-- Categories -->
+    <string name="categoryHome">Hogar</string>
+    <string name="categoryElectronic">Electrónica</string>
+    <string name="categorySport">Deportes</string>
+
+    <!-- Menu -->
+    <string name="menu_sort_ASC">Ordenar ascendente</string>
+    <string name="menu_sort_DESC">Ordenar descendente</string>
+    <string name="menu_sort_category">Ordenar por categoría</string>
+
+    <!--Context menu -->
+    <string name="ctx_appinfo">Información App</string>
+
+    <!-- AddOffering-->
+    <string name="txv_offeringName">Nombre:</string>
+    <string name="txv_offeringShop">Tienda:</string>
+    <string name="txv_offeringDate">Fecha:</string>
+    <string name="txv_offeringCategory">Tipo:</string>
+    <string name="txv_offeringWeight">Importancia:</string>
+    <string name="btn_add">Añadir</string>
+
+    <!--Appinfo-->
+    <string name="appinfo_message_prefix">Aplicación desarrollada por</string>
+    <string name="author" translatable="false">Daniel Acedo Calderón</string>
+    <string name="appinfo_positiveButton">Aceptar</string>
+</resources>

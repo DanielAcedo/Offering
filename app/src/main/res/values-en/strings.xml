@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appinfo_message_prefix">Application developed by</string>
+    <string name="appinfo_positiveButton">Accept</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_configurationAccept">Accept</string>
+    <string name="categoryElectronic">Electronic</string>
+    <string name="categoryHome">Home</string>
+    <string name="categorySport">Sports</string>
+    <string name="ctx_appinfo">App Information</string>
+    <string name="err_addError">Operation couldn\'t be finished</string>
+    <string name="err_categoryEmpty">You must select at least one offer category</string>
+    <string name="err_openTypeface">Font couldn\'t be opened</string>
+    <string name="menu_sort_ASC">Ascendent sort</string>
+    <string name="menu_sort_DESC">Descendent sort</string>
+    <string name="menu_sort_category">Category sort</string>
+    <string name="txv_configurationTitle">Offering Configuration</string>
+    <string name="txv_offeringCategory">Category:</string>
+    <string name="txv_offeringDate">Date:</string>
+    <string name="txv_offeringName">Name:</string>
+    <string name="txv_offeringShop">Shop:</string>
+    <string name="txv_offeringWeight">Weight:</string>
+    <string name="txv_showElectronicOffering">Show electronic offers:</string>
+    <string name="txv_showHomeOffering">Show home offers:</string>
+    <string name="txv_showOfferingWeight">Show offers\' weight</string>
+    <string name="txv_showSportOffering">Show sports offers</string>
+</resources>
